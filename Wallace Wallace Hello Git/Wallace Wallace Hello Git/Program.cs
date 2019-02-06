@@ -11,6 +11,7 @@ namespace Wallace_Wallace_Hello_Git
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git World");
+            Console.WriteLine("This is the GitHub exercise");
         }
     }
 }
